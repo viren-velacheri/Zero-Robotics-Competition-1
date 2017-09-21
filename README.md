@@ -3,7 +3,7 @@
 ### Sphere-3S-3D : Preliminary knockout rounds
 ### Alliance : Semi Finals + Final
 ![pic](/slides/Zero-Robotics.png)
-![pic](/slidesZero-Robotics-2.png)
+![pic](/slides/Zero-Robotics-2.png)
 ![pic](/slides/Zero-Robotics-3.png)
 ![pic](/slides/Zero-Robotics-4.png)
 ![pic](/slides/Zero-Robotics-5.png)
