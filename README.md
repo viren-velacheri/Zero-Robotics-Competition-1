@@ -1,4 +1,4 @@
-## Zero-Robotics-2016
+## Zero-Robotics
 ### Sphere-2D : Qualifying round
 ### Sphere-3S-3D : Preliminary knockout rounds
 ### Alliance : Semi Finals + Final
